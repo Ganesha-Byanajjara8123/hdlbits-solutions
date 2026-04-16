@@ -15,6 +15,7 @@ module top_module(
     input d,
     output out,
     output out_n   ); 
+	
     //declare wire from 2-AND gates and as input for OR gate
     wire ab_in, cd_in;
     

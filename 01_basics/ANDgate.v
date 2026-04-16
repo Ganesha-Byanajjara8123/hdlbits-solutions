@@ -13,6 +13,6 @@ module top_module(
     output out );
     
     assign out = a & b;  // for behavioral solution 
-    and and_gate(out,a,b); // for structural solution
+    //and and_gate(out,a,b); // for structural solution
 
 endmodule

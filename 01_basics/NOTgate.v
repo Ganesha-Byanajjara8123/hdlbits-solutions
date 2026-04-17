@@ -8,5 +8,8 @@
 
 
 module top_module( input in, output out );
-assign out = ~in;
+  
+assign out = ~in;  //for behavioral solutions
+  //not not_gate(out,in);  //for  structural solutions
+  
 endmodule

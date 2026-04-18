@@ -11,6 +11,7 @@ module top_module(
     input b, 
     output out );
     
-    assign out = ~(a|b);
+    assign out = ~(a|b); //for Behavioral solution
+    //nor nor_gate(out,a,b); //for structural solution
 
 endmodule

@@ -11,6 +11,7 @@ module top_module(
     input b, 
     output out );
     
-    assign out = ~(a^b);
+    assign out = ~(a^b);       // for behavioral solution
+    //xnor xnor_gate(out,a,b); // for structral solution
 
 endmodule

@@ -1,3 +1,12 @@
+// ============================================
+// HDLBits Problem : NOT gate
+// Topic          : Basics
+// Solved by      : Byanajjara Ganesha
+// Date           : 2026-04-15
+// Link           : https://hdlbits.01xz.net/wiki/Vector0
+// ============================================
+
+
 module top_module ( 
     input wire [2:0] vec,
     output wire [2:0] outv,

@@ -6,6 +6,7 @@
 // Link           : https://hdlbits.01xz.net/wiki/Vectorgates
 // ============================================
 
+
 module top_module( 
     input [2:0] a,
     input [2:0] b,

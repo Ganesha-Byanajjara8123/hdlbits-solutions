@@ -1,15 +1,16 @@
 // ============================================
+<<<<<<< HEAD
 // HDLBits Problem : Vector0
 // Topic          : Basics
+=======
+// HDLBits Problem :Vecotr0
+// Topic          : Vectors
+>>>>>>> 187b57103655556c156433b8fb222bc7ecc45426
 // Solved by      : Byanajjara Ganesha
-// Date           : 2026-04-15
+// Date           : 2026-04-18
 // Link           : https://hdlbits.01xz.net/wiki/Vector0
 // ============================================
 
-<<<<<<< HEAD:02_vectors/vector0.v
-=======
-
->>>>>>> 19a55e36021ee36fc2e53427e1232094311f6c4e:02_vectors/vectors.v
 module top_module ( 
     input wire [2:0] vec,
     output wire [2:0] outv,

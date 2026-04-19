@@ -1,8 +1,12 @@
 // ============================================
 // HDLBits Problem : Vector1
+<<<<<<< HEAD
 // Topic          : Basics
+=======
+// Topic          : Vectors
+>>>>>>> 187b57103655556c156433b8fb222bc7ecc45426
 // Solved by      : Byanajjara Ganesha
-// Date           : 2026-04-15
+// Date           : 2026-04-18
 // Link           : https://hdlbits.01xz.net/wiki/Vector1
 // ============================================
 

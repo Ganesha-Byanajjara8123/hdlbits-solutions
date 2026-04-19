@@ -2,7 +2,7 @@
 // HDLBits Problem : AND gate
 // Topic          : Basics
 // Solved by      : Byanajjara Ganesha
-// Date           : 2026-04-15
+// Date           : 2026-04-16
 // Link           : https://hdlbits.01xz.net/wiki/Andgate
 // ============================================
 

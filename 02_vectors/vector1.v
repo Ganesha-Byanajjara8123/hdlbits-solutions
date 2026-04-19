@@ -1,5 +1,5 @@
 // ============================================
-// HDLBits Problem : NOT gate
+// HDLBits Problem : Vector1
 // Topic          : Basics
 // Solved by      : Byanajjara Ganesha
 // Date           : 2026-04-15

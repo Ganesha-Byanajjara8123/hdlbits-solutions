@@ -1,6 +1,6 @@
 // ============================================
 // HDLBits Problem : Vector1
-// Topic          : Vectors
+// Topic          : Vectors - upper&lower
 // Solved by      : Byanajjara Ganesha
 // Date           : 2026-04-15
 // Link           : https://hdlbits.01xz.net/wiki/Vector1

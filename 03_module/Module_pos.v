@@ -16,7 +16,7 @@ module top_module (
     output out2
 );
 
-    //instace by POSITION
+    //instace by POSITIONS
        mod_a inst1(out1,out2,a,b,c,d);
     
 endmodule

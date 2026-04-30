@@ -1,4 +1,3 @@
-
 // ============================================
 // HDLBits Problem : Module
 // Topic          :  Module_add
@@ -6,8 +5,6 @@
 // Date           : 2026-04-30
 // Link           : https://hdlbits.01xz.net/wiki/Module_add
 // ============================================
-
-
 
 module top_module(
     input [31:0] a,

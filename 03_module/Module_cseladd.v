@@ -6,7 +6,6 @@
 // Link           : https://hdlbits.01xz.net/wiki/Module_cseladd
 // ============================================
 
-
 module top_module(
     input [31:0] a,
     input [31:0] b,

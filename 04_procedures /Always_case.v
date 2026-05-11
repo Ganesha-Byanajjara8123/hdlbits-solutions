@@ -8,7 +8,6 @@
 // ============================================
 
 
-
 // synthesis verilog_input_version verilog_2001
 module top_module ( 
     input [2:0] sel, 
@@ -29,7 +28,8 @@ module top_module (
             3'b100: out = data4;
             3'b101: out = data5;
             
-            default out = 4'b0000;
+            default out = 4'b0000; //for default value aa per problem required 
+            
                         
         endcase
             

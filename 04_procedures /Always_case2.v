@@ -41,6 +41,7 @@ endmodule
 
 
 //OR WE CAN WRITE THIS ALSO AS
+//to save typing time
 
 module top_module (
 	input [3:0] in,
@@ -49,7 +50,7 @@ module top_module (
 
 	always @(*) begin			// Combinational always block
 		case (in)
-			4'h0: pos = 2'h0;	//to save typing time
+			4'h0: pos = 2'h0;	
 			4'h1: pos = 2'h0;
 			4'h2: pos = 2'h1;
 			4'h3: pos = 2'h0;

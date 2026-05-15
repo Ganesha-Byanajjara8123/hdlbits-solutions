@@ -1,4 +1,3 @@
-
 // ============================================
 // HDLBits Problem : Procedures 
 // Topic          :  Always_nolatches

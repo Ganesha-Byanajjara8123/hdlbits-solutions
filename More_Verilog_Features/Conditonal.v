@@ -7,7 +7,6 @@
 // Link           : https://hdlbits.01xz.net/wiki/Conditional
 // ============================================
 
-
 module top_module (
     input [7:0] a, b, c, d,
     output [7:0] min);//

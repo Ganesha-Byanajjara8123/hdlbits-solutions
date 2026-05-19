@@ -7,7 +7,6 @@
 // Link           : https://hdlbits.01xz.net/wiki/Bcdadd100
 // ============================================
 
-
 module top_module( 
     input [399:0] a, b,
     input cin,

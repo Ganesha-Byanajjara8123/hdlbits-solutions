@@ -1,4 +1,3 @@
-
 // ============================================
 // HDLBits Problem :  More_verilog_features 
 // Topic           :  m2014_q4i

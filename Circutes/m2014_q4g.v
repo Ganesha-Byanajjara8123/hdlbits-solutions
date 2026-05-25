@@ -1,6 +1,6 @@
 
 // ============================================
-// HDLBits Problem :  Circuite
+// HDLBits Problem :  Circuite 
 // Topic           :  m2014_q4g
 // Solved by      : Byanajjara Ganesha
 // Date           : 2026-05-23

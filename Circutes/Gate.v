@@ -1,6 +1,6 @@
 
 // ============================================
-// HDLBits Problem :  More_verilog_features 
+// HDLBits Problem :  Circuite 
 // Topic           :  Gates
 // Solved by      : Byanajjara Ganesha
 // Date           : 2026-05-24

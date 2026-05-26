@@ -1,6 +1,6 @@
 
 // ============================================
-// HDLBits Problem :  More_verilog_features 
+// HDLBits Problem :  Circuite
 // Topic           :  m2014_q4h
 // Solved by      : Byanajjara Ganesha
 // Date           : 2026-05-19

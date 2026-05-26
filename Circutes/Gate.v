@@ -7,7 +7,7 @@
 // Link           :https://hdlbits.01xz.net/wiki/Gates
 // ============================================
 
-module top_module( 
+module top_module(
     input a, b,
     output out_and,
     output out_or,

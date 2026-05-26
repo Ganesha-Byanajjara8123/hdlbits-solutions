@@ -7,7 +7,7 @@
 // ============================================
 
 module top_module (
-    output out);
+    output out); 
 
     assign out = 1'b0;
     

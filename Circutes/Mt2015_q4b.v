@@ -12,5 +12,5 @@ module top_module ( input x, input y, output z );
 
    //the given above wave form is output of the XNOR gate
     assign z = ~(x ^ y); 
-    
+
 endmodule

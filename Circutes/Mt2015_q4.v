@@ -6,7 +6,6 @@
 // Link            : https://hdlbits.01xz.net/wiki/Mt2015_q4
 // ============================================
 
-
 module top_module (input x, input y, output z);
 
 	//declare 4-wire w.r.t given circuite 

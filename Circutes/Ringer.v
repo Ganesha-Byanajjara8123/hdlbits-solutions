@@ -7,7 +7,6 @@
 // Link            : https://hdlbits.01xz.net/wiki/Ringer
 // ============================================
 
-
 module top_module (
     input ring,
     input vibrate_mode,

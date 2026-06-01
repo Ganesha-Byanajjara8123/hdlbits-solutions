@@ -6,6 +6,7 @@
 // Link            : https://hdlbits.01xz.net/wiki/Thermostat
 // ============================================
 
+
 module top_module (
     input too_cold,
     input too_hot,

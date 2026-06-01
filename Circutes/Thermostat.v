@@ -24,5 +24,5 @@ module top_module (
     //as per discribed in the problem When the heater or air conditioner are on,
     //also turn on the fan to circulate the air. and also request to fan_on = 1;
     assign fan    = heater | aircon | fan_on ;
-
+	
 endmodule

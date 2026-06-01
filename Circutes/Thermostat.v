@@ -1,4 +1,3 @@
-
 // ============================================
 // HDLBits Problem :  Circuite
 // Topic           :  Thermostat

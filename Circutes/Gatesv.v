@@ -6,7 +6,6 @@
 // Link            : https://hdlbits.01xz.net/wiki/Gatesv
 // ============================================
 
-
 module top_module( 
     input [3:0] in,
     output [2:0] out_both,

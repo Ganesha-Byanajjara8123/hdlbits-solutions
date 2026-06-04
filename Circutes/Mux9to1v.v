@@ -7,7 +7,6 @@
 // Link            : https://hdlbits.01xz.net/wiki/Mux9to1v
 // ============================================
 
-
 module top_module( 
     input [15:0] a, b, c, d, e, f, g, h, i,
     input [3:0] sel,

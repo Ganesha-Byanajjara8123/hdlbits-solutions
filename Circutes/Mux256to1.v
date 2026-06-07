@@ -16,4 +16,4 @@ module top_module(
     //sel=0 and in = 0, sel = 1 and in = 1...etc upto 256
     assign out = in[sel];
    
-endmodule
+endmodule 

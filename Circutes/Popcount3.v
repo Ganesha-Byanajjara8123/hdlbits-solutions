@@ -16,5 +16,4 @@ module top_module(
         for(int i=0; i<3; i++) //make for loop with taking i as integer
             out = out + in[i]; //here it counts number of 1's
     end
-
 endmodule

@@ -1,4 +1,3 @@
-
 // ============================================
 // HDLBits Problem :  Circuite-MUX's
 // Topic           :  Mux2to1

@@ -11,7 +11,7 @@ module top_module(
     output cout, sum );
    
     //we know the half adder equation, A/C that
-    assign sum = a^b;
-    assign cout = a&b | b&a;
+    assign sum = a ^ b;
+    assign cout = a & b | b & a;
     
 endmodule

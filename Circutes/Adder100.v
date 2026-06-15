@@ -7,7 +7,6 @@
 // Link            :  https://hdlbits.01xz.net/wiki/Adder100
 // ============================================
 
-
 module top_module (
 	input [99:0] a,
 	input [99:0] b,

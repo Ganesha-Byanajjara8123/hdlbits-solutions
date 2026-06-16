@@ -7,7 +7,6 @@
 // Link            :  https://hdlbits.01xz.net/wiki/Bcdadd4
 // ============================================
 
-
 module top_module ( 
     input [15:0] a, b,
     input cin,

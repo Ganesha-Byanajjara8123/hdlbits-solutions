@@ -12,7 +12,7 @@ module top_module(
     input c,
     input d,
     output out  ); 
-
+    
     //wkt check board configuration
     assign out = (a^b^c^d);
 endmodule

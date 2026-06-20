@@ -14,7 +14,7 @@ module top_module (
     output out_sop,
     output out_pos
 ); 
-    assign out_sop = c&d | ~a&~b&c&~d;
-    assign out_pos = (c | ~d) & (~b | d) & (~a | d) & (b | c);
+    assign out_sop = c&d | ~a&~b&c&~d; //SOP
+    assign out_pos = (c | ~d) & (~b | d) & (~a | d) & (b | c); //POS
 
 endmodule

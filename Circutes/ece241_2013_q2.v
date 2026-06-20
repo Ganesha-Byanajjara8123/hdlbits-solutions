@@ -1,4 +1,3 @@
-
 // ============================================
 // HDLBits Problem :  Circuite-Kmaps
 // Topic           :  ece241_2013_q2

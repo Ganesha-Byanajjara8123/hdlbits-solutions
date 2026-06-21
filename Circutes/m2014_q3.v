@@ -7,6 +7,7 @@
 // Link            :  https://hdlbits.01xz.net/wiki/Exams/m2014_q3
 // ============================================
 
+
 module top_module (
     input [4:1] x, 
     output f );

@@ -12,5 +12,4 @@ module top_module (
     output f
 ); //by using vectors method
     assign f = (x[3]&~x[1]) | (~x[4]&~x[2]) | (x[3]&x[4]&x[2]);
-
 endmodule

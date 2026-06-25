@@ -1,4 +1,3 @@
-
 // ============================================
 // HDLBits Problem :  Circuite-D-FF
 // Topic           :  m2014_q4b

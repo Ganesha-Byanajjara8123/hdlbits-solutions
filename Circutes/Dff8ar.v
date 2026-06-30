@@ -5,7 +5,7 @@
 // Date            :  2026-06-28
 // Link            :  https://hdlbits.01xz.net/wiki/Dff8ar
 // ============================================
-
+ 
 module top_module (n
     input clk,
     input areset,   // active high asynchronous reset

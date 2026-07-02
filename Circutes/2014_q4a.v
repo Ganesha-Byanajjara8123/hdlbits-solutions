@@ -6,7 +6,7 @@
 // Date            :  2026-07-02
 // Link            :  https://hdlbits.01xz.net/wiki/Exams/2014_q4a
 // ============================================
-
+ 
 module top_module (
     input clk,
     input w, R, E, L,

@@ -7,7 +7,6 @@
 // Link            :  https://hdlbits.01xz.net/wiki/Count10
 // ============================================
 
-
 module top_module (
     input clk,
     input reset,        // Synchronous active-high reset

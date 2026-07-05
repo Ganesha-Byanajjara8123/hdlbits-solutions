@@ -7,7 +7,6 @@
 // Link            :  https://hdlbits.01xz.net/wiki/Exams/ece241_2014_q7a
 // ============================================
 
-
 module top_module (
     input clk,
     input reset,

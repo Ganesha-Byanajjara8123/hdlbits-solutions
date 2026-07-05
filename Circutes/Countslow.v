@@ -6,7 +6,7 @@
 // Date            :  2026-07-05
 // Link            :  https://hdlbits.01xz.net/wiki/Countslow
 // ============================================
-
+ 
 module top_module (
     input clk,
     input slowena,

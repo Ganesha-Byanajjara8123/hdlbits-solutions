@@ -7,7 +7,6 @@
 // Link            :  https://hdlbits.01xz.net/wiki/Countslow
 // ============================================
 
-
 module top_module (
     input clk,
     input slowena,

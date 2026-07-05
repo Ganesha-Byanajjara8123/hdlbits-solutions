@@ -7,7 +7,6 @@
 // Link            :  https://hdlbits.01xz.net/wiki/Count1to10
 // ============================================
 
-
 module top_module (
     input clk,
     input reset,

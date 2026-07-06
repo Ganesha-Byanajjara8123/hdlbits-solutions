@@ -6,7 +6,7 @@
 // Date            :  2026-07-06
 // Link            :  https://hdlbits.01xz.net/wiki/Count_clock
 // ============================================
-
+ 
 module top_module (
     input clk,
     input reset,

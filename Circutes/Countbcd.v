@@ -7,7 +7,6 @@
 // Link            :  https://hdlbits.01xz.net/wiki/Countbcd
 // ============================================
 
-
 //for module instantiate purpose
 module counter10 ( 
     input clk, 

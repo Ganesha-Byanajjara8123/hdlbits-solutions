@@ -6,7 +6,7 @@
 // Date            :  2026-07-07
 // Link            :  https://hdlbits.01xz.net/wiki/Shift4
 // ============================================
-
+ 
 module top_module(
     input clk,
     input areset,  // async active-high reset to zero

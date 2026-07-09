@@ -7,7 +7,7 @@
 // Link            :  https://hdlbits.01xz.net/wiki/Shift18
 // ============================================
 
-module top_module(
+module top_module( 
     input clk,
     input load,
     input ena,

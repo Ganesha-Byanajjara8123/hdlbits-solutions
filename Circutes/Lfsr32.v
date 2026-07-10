@@ -36,3 +36,4 @@ flipping the bits only at the specific tap positions.
 
 Binary:  1000  0000  0010  0000  0000  0000  0000  0011
 Hex:       8     0     2     0     0     0     0     3
+*/

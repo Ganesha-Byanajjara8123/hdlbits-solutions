@@ -1,4 +1,3 @@
-
 // ============================================
 // HDLBits Problem :  Circuite-Shifters
 // Topic           :  ece241_2013_q12

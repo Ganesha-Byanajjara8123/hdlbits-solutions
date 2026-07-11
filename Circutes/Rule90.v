@@ -5,7 +5,7 @@
 // Date            :  2026-11-07
 // Link            :  https://hdlbits.01xz.net/wiki/Rule90
 // ============================================
-
+ 
 module top_module(
     input clk,
     input load,

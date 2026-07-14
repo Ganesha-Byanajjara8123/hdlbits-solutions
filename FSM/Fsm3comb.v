@@ -5,7 +5,7 @@
 // Date            :  2026-14-07
 // Link            :  https://hdlbits.01xz.net/wiki/Fsm3comb
 // ============================================
-
+ 
 module top_module(
     input in,
     input [1:0] state,

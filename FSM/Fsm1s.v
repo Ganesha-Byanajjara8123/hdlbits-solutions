@@ -7,7 +7,6 @@
 // Link            :  https://hdlbits.01xz.net/wiki/Fsm1s
 // ============================================
 
-
 module top_module(clk, reset, in, out);
     input clk;
     input reset;    // Synchronous reset to state B

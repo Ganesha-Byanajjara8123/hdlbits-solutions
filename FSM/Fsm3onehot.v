@@ -6,7 +6,7 @@
 // Date            :  2026-15-07
 // Link            :  https://hdlbits.01xz.net/wiki/Fsm3onehot
 // ============================================
-
+ 
 module top_module(
     input in,
     input [3:0] state,

@@ -6,7 +6,7 @@
 // Date            :  2026-17-07
 // Link            :  https://hdlbits.01xz.net/wiki/Lemmings1
 // ============================================
-
+ 
 module top_module(
     input clk,
     input areset,    // Freshly brainwashed Lemmings walk left.

@@ -1,4 +1,3 @@
-
 // ============================================
 // HDLBits Problem :  Circuite-FSM
 // Topic           :  Fsm3

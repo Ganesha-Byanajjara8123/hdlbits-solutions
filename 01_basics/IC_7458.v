@@ -6,7 +6,6 @@
 // Link           : https://hdlbits.01xz.net/wiki/7458
 // ============================================
 
-
 module top_module ( 
     input p1a, p1b, p1c, p1d, p1e, p1f,
     output p1y,

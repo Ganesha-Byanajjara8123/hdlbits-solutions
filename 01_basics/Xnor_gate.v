@@ -5,7 +5,7 @@
 // Date           : 2026-04-15
 // Link           : https://hdlbits.01xz.net/wiki/Xnorgate
 // ============================================
-
+ 
 module top_module( 
     input a, 
     input b, 

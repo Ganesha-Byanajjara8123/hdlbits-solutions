@@ -7,8 +7,6 @@
 // Link            :  https://hdlbits.01xz.net/wiki/Fsm_ps2data
 // ============================================
 
-
-
 module top_module(
     input clk,
     input [7:0] in,

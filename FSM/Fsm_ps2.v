@@ -1,1 +1,42 @@
 
+// ============================================
+// HDLBits Problem :  Circuite-FSM
+// Topic           :  Fsm_ps2
+// Solved by       :  Byanajjara Ganesha
+// Date            :  2026-19-07
+// Link            :  https://hdlbits.01xz.net/wiki/Fsm_ps2
+// ============================================
+
+module top_module(
+    input clk,
+    input [7:0] in,
+    input reset,    // Synchronous reset
+    output done); //
+
+    parameter BYTE1 = 0, BYTE2 = 1, BYTE3 = 2, DONE = 3; 
+    reg[1:0]state,next;
+    // State transition logic (combinational)
+    always@(*)begin
+        case(state)
+            BYTE1 : next = in[3] ? BYTE2 : BYTE1;
+            BYTE2 : next = BYTE3;
+            BYTE3 : next = DONE;
+            DONE  : next = in[3] ? BYTE2 : BYTE1;
+            default: next = BYTE1;
+        endcase
+    end
+            
+
+    // State flip-flops (sequential)
+    always@(posedge clk)begin
+        if(reset)
+            state <= BYTE1;
+        else
+            state <= next;
+    end
+            
+ 
+    // Output logic
+
+    assign done = (state == DONE);
+endmodule

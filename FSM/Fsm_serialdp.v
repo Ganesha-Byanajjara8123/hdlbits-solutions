@@ -6,7 +6,7 @@
 // Date            :  2026-21-07
 // Link            :  https://hdlbits.01xz.net/wiki/Fsm_serialdp
 // ============================================
-
+ 
 module top_module (
     input clk,
     input in,

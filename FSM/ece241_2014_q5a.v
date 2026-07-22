@@ -6,7 +6,7 @@
 // Date            :  2026-22-07
 // Link            :  https://hdlbits.01xz.net/wiki/Exams/ece241_2014_q5a
 // ============================================
-
+ 
 module top_module (
     input clk,
     input areset,

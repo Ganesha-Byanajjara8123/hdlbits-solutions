@@ -6,7 +6,7 @@
 // Date            :  2026-23-07
 // Link            :  https://hdlbits.01xz.net/wiki/Exams/2014_q3fsm
 // ============================================
-
+ 
 module top_module (
     input clk,
     input reset,   // Synchronous reset

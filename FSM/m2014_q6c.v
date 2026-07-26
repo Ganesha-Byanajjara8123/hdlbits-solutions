@@ -7,7 +7,7 @@
 // Link            :  https://hdlbits.01xz.net/wiki/Exams/m2014_q6c
 // ============================================
 
-module top_module (
+module top_module ( 
     input [6:1] y,
     input w,
     output Y2,
